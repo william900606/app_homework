@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HW1</string>
+
+    <string-array name="size">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>2XL</item>
+        <item>3XL</item>
+    </string-array>
+
+    <string-array name="color">
+        <item>黑色</item>
+        <item>白色</item>
+        <item>藍色</item>
+        <item>土黃色</item>
+        <item>灰色</item>
+        <item>軍綠色</item>
+        <item>酒紅色</item>
+    </string-array>
+</resources>
